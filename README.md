@@ -4,4 +4,4 @@ This repository includes my solutions to the 42 School Silicon Valley Intermedia
 
 ### Authors
 - Juan Pedro Casian - Github: [@JuanCasian](https://github.com/JuanCasian) - Email: juanpedrocasian@gmail.com
-- Daniel Cordova - Github: [DanielCordovaV](https://github.com/DanielCordovaV) - Email: daniel_cordova_98@outlook.com
+- Daniel Cordova - Github: [@DanielCordovaV](https://github.com/DanielCordovaV) - Email: daniel_cordova_98@outlook.com
